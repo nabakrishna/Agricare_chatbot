@@ -1,4 +1,4 @@
-🌿 Plant Health Diagnosis Chatbot
+#🌿 Plant Health Diagnosis Chatbot
 A context-aware chatbot for diagnosing plant diseases and providing care advice. Uses time-based greetings, fuzzy matching for typos, and structured responses to guide users from symptoms to solutions.
 
 ✨ Features
