@@ -1,0 +1,4 @@
+# Block environment files
+.env
+env
+*.env
